@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="minTemperature">Min: %1$.2f F</string>
+    <string name="maxTemperature">Max: %1$.2f F</string>
+    <string name="humidity">Humidity: %1$.2f %%</string>
+    <string name="subheaderShowingTemperature">Showing weather forecast for London, UK</string>
+</resources>
